@@ -1,0 +1,29 @@
+@font-face {
+font-family: 'Sanskrit2003';
+src: url('../fonts/Sanskrit2003.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;} 
+
+.hdr1 {color:red;font-family:Sanskrit2003;font-size:3em; line-height:1.25em;letter-spacing:normal;text-align:center;}
+.hdr2 {color:#ff4500;font-family:Sanskrit2003;font-size:2.6em;line-height:1.2em;letter-spacing:normal;text-align:center;}
+.hdr3 {color:#003399;font-family:Sanskrit2003;font-size:2.25em;line-height:1.5em;letter-spacing:normal;text-align:center;}
+.hdr4 {text-align:left; color:#003399; font-family:Sanskrit2003;font-size:1.3em;line-height:2.5em;margin-left:30px; letter-spacing:normal;} 
+
+.shl {float:left; width:47%; text-align:left; color:#ff0000; font-family:Sanskrit2003;;font-size:1.35em;line-height:1.4em; margin-left:5px; margin-right:5px; letter-spacing:normal;}
+.arth { float:left; width:49%; text-align:justify; color:#197519; font-family:Sanskrit2003;font-size:1.35em;line-height:1.4em; margin-left:5px; margin-right:5px; letter-spacing:normal;} 
+
+.para {font-family:Sanskrit2003; text-align:justify; text-indent:20px;margin:15px;font-size:1.25em; color:#006400; line-height:25px;} 
+.end { font-family:Sanskrit2003;font-size:1.3em;line-height:1.6em; color:#003399; text-align:center; letter-spacing:normal;}  
+
+.pre { float: left; padding: 10px; text-align: left; font-size:1em;font-weight:bold; width: 44%; }
+.nex { float: right; padding: 10px; text-align: right; font-size:1em;font-weight:bold; width: 44%; } 
+
+.txt { text-align:justify; color:#006400; font-family:Sanskrit2003;font-size:1.4em; line-height:1.5em; margin-left:10px; margin-right:10px; letter-spacing:normal;} 
+
+#wrapper {  margin: 0 auto;  width: 100%; } 
+
+#leftcolumn {  float: left; height: 100%; width: 23%; margin-left: 15px; position: relative; }
+
+#rightcolumn {  float: right; height: 100%; width: 75%; display: inline; position: relative; }  
+
+table {width:80%; text-align:center; border-style:none; margin:0 auto; background:#ffffbb; */} 

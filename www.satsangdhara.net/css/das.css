@@ -1,0 +1,29 @@
+﻿
+@font-face {
+font-family: 'Sanskrit2003';
+src: url('../fonts/Sanskrit2003.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;} 
+
+* {margin:0;padding:0;}
+
+:focus {outline:none;} /* remember to define focus styles! */
+
+@media print {.noprint {display:none;}}
+
+body {font-size:100%;line-height:1.6em;letter-spacing:normal;word-spacing:normal;
+      text-align:center;overflow:auto;background-image:url("../images/chalk.jpg");}
+
+p.top { text-align:right; margin-right:30px; font-size:1.5em; }  	  
+p.hdr1 {text-align: center; margin: 0.0001pt;font-family:Sanskrit2003;font-size:2.5em;line-height:1.6em;font-weight:normal;color:red;}
+p.hdr2 {text-align: center; margin: 0.0001pt;font-family:Sanskrit2003;font-size:1.75em;line-height:1.6em;font-weight:normal;color:red;}
+p.hdr3 {text-align: center; margin: 0.0001pt;font-family:Sanskrit2003;font-size:1.5em;line-height:1.6em;font-weight:normal;color:red;}
+p.hdr4 {text-align: center; margin: 0.0001pt;font-family:Sanskrit2003;font-size:1.40em;line-height:1.6em;font-weight:normal;color:red;}
+p.shkn {text-align: center; margin: 0.0001pt;font-family:Sanskrit2003;font-size:1.4em;line-height:1.6em;font-weight:normal;color:#007138;}
+p.shkb {text-align: center; margin: 0.0001pt;font-family:Sanskrit2003;font-size:1.4em;line-height:1.6em;font-weight:400;color:#007138;}
+p.note {text-align: center;font-family:Sanskrit2003;font-size:1.2em;color:blue;}
+.ovi {text-align: left; margin-left: 30px; font-family:Sanskrit2003;font-size:1.4em;line-height:1.6em;font-weight:400;color:red;}
+.viv {text-align:justify; font-size:1.4em; line-height:1.5em; margin:2px 30px 2px 30px; color:#006600;font-family:Sanskrit2003;}
+
+table {width:80%;text-align:center;border-style:none;margin:0 auto;/*background:#ffffbb;*/}
+/* {color:#6b8e23;} */

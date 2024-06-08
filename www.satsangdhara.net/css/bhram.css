@@ -1,0 +1,19 @@
+
+
+@font-face {
+font-family: 'Sanskrit2003';
+src: url('../fonts/Sanskrit2003.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;} 
+
+p.hdr1 {text-align:center;  font-size:3em; color:#cc1100; font-family:Sanskrit2003;} 
+p.hdr2 {text-align:center;  font-size:2.25em; color:#800000; font-family:Sanskrit2003;} 
+p.hdr3 {text-align:center;  font-size:1.5em; line-height:1.5em; color:#800000; font-family:Sanskrit2003;} 
+p.hdr4 {text-align:center;  font-size:1.2em; line-height:1.5em; color:#ff4500; font-family:Sanskrit2003;} 
+p.shl { text-align:center;  font-size:1.4em; line-height:1.5em; color:blue; font-family:Sanskrit2003; } 
+p.ovi { text-align:center;  font-size:1.4em; line-height:1.5em; color:green; font-family:Sanskrit2003; } 
+p.arth {text-align:justify; color:#197519; font-family:Sanskrit2003;font-size:1.4em;line-height:1.5em; margin:2px 30px 2px 30px; letter-spacing:normal;} 
+p.note { text-align:center;  font-size:1.2em; color:#ff6633; line-height:1.5em; font-family:Sanskrit2003; }
+p.sndrbh { text-align:left; margin-left:150px; font-size:1.3em; line-height:1.5em; color:#ff4500; font-family:Sanskrit2003; } 
+.pre { float: left; padding: 10px; text-align: left; font-size:1em; font-weight:bold; width: 44%; }
+.nex { float: right; padding: 10px; text-align: right; font-size:1em; font-weight:bold; width: 44%; } 

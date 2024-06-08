@@ -1,0 +1,27 @@
+
+@font-face {
+font-family: 'Sanskrit2003';
+src: url('../fonts/Sanskrit2003-1.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;} 
+
+p.hdr1 {text-align:center; margin:.0001pt; font-size:3em; color:#cc1100; font-family:Sanskrit2003;} 
+p.hdr2 {text-align:center; margin:.0001pt; font-size:2.25em; color:#800000; font-family:Sanskrit2003;} 
+p.hdr3 {text-align:center; margin-left:10px; font-size:1.5em; color:#800000; font-family:Sanskrit2003;} 
+p.hdr4 {text-align:center; margin:.0001pt; font-size:1.2em; color:#ff4500; font-family:Sanskrit2003;} 
+
+.ovi {float:left; width:60%; text-align:left; color:#0000A0; font-family:Sanskrit2003;font-size:1.4em;line-height:1.5em; margin-left:200px; letter-spacing:normal;}
+
+.svi  {float:left; width:90%; text-align:left; color:#0000a0; font-family:Sanskrit2003;font-size:1.4em;line-height:1.5em; margin-left:200px; letter-spacing:normal;}
+
+.anu  { float:left; width:94%; text-align:justify; color:#0000cc; font-family:Sanskrit2003;font-size:1.4em;line-height:1.5em; margin:5px 30px 5px 30px; letter-spacing:normal;} 
+
+.anu2  { float:left; width:94%; text-align:justify; color:#4863A0; font-family:Sanskrit2003;font-size:1.4em;line-height:1.5em; margin:5px 30px 5px 30px; letter-spacing:normal;} 
+
+p.ovi { text-align:center; margin:.0001pt; font-size:1.4em; line-height:1.5em; color:#4863A0; font-family:Sanskrit2003; } 
+
+p.txt {text-align:justify;margin-left:30px;margin-right:30px;font-family:Sanskrit2003;font-size:1.4em;font-weight:normal;color:#800000; }
+
+.pre { float: left; padding: 10px; text-align: left; font-size:1em;font-weight:bold; width: 44%;}
+.nex { float: right; padding: 10px; text-align: right; font-size:1em;font-weight:bold; width: 44%;} 
+/* color:#4863A0; */

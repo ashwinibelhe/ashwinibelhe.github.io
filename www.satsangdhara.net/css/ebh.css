@@ -1,0 +1,43 @@
+
+@font-face {
+font-family: 'Sanskrit2003';
+src: url('../fonts/Sanskrit2003.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;} 
+
+.hdr1 {color:#0033cc; font-family:Sanskrit2003;font-size:2em; line-height:1.25em;letter-spacing:normal;text-align:center;} 
+
+.hdr2 {color:#ff4500; font-family:Sanskrit2003;font-size:1.6em;line-height:1.2em;letter-spacing:normal;text-align:center;} 
+
+.hdr3 {color:#003399;font-family:Sanskrit2003;font-size:1.25em;line-height:1.5em;letter-spacing:normal;text-align:center;} 
+
+.shlok { font-family:Sanskrit2003; font-size:1.4em;line-height:1.5em; color:#009933; text-align:center; letter-spacing:normal;}  
+
+.ovi { font-family:Sanskrit2003; font-size:1.4em;line-height:1.5em; margin:.0001pt;color:#0033cc; text-align:center; letter-spacing:normal;}  
+
+/* for two col presentation */
+
+.movi {float:left; width:46%; text-align:left; color:#0000ff; font-family:Sanskrit2003;;font-size:1.4em; line-height:1.5em; margin-left:15px; letter-spacing:normal;} 
+
+.oarth { float:left; width:50%; text-align:justify; color:#0033cc; font-family:Sanskrit2003;font-size:1.4em;line-height:1.5em; margin-left:5px; margin-right:5px; letter-spacing:normal;} 
+
+.abh {float:left; width:45%; text-align:left; color:#0033ff; font-family:Sanskrit2003;;font-size:1.3em; line-height:1.4em; margin-left:15px; letter-spacing:normal;} 
+
+.abh_arth { float:left; width:50%; text-align:justify; color:#0033cc; font-family:Sanskrit2003;font-size:1.3em;line-height:1.4em; margin-left:10px; margin-right:10px; letter-spacing:normal;} 
+
+.shl {float:left; width:46%; text-align:left; color:#009933; font-family:Sanskrit2003;;font-size:1.4em;line-height:1.5em;margin-left:15px; letter-spacing:normal;}  /*color:#009933*/
+
+.sharth { float:left; width:50%; text-align:justify; color:#009933; font-family:Sanskrit2003;font-size:1.4em;line-height:1.5em; margin-left:5px; margin-right:5px; letter-spacing:normal;} 
+
+.txt { text-align:justify; color:#0033cc; font-family:Sanskrit2003;font-size:1.4em;line-height:1.5em; margin-left:30px; margin-right:30px; letter-spacing:normal;} 
+
+.pre { float: left; padding: 10px; text-align: left; font-size:1em;font-weight:bold; width: 44%; }
+.nex { float: right; padding: 10px; text-align: right; font-size:1em;font-weight:bold; width: 44%; } 
+.top { text-align: right;margin-right: 30px; font-size: 1.5em; } 
+.end { font-family:Sanskrit2003;font-size:1.3em;line-height:1.6em; color:#003399; text-align:center; letter-spacing:normal;}  
+.top { font-family:Sanskrit2003;font-size:1.3em;line-height:1.6em; color:#003399; text-align:right; margin-right:15px; letter-spacing:normal;}  
+#wrapper {  margin: 0 auto;  width: 100%; } 
+#leftcolumn {  float: left; height: 100%; width: 23%; margin-left: 15px; position: relative; }
+#rightcolumn {  float: right; height: 100%; width: 75%; display: inline; position: relative; } 
+
+table {width:80%; text-align:center; border-style:none; margin:0 auto; background:#ccffcc; */}

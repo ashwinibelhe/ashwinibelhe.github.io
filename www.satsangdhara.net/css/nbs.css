@@ -1,0 +1,29 @@
+﻿
+@font-face {
+font-family: 'Sanskrit2003';
+src: url('../fonts/Sanskrit2003-1.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;} 
+
+h1 {text-align:center; font-size:1.75em; line-height:1.8em; color:red; font-family:Sanskrit2003}
+h3 {text-align:center; font-size:1.4em; line-height:1.5em; color:blue; font-family:Sanskrit2003;}
+h4 {text-align:center; font-size:1.3em; line-height:1.5em; color:red;font-family:Sanskrit2003;}
+
+
+.kram {font-family:Sanskrit2003;font-size:1.1em;line-height:1.5em;margin-left:10px; margin-right:10px; color:#ff4500; text-align:justify; letter-spacing:normal; } 
+
+p {text-align:justify; font-size:1.4em;  line-height:1.5em; margin:2px 30px 2px 30px; color:#105955;font-family:Sanskrit2003;}
+p.sambandh {text-align:justify; font-size:1.3em; line-height:1.5em; margin:2px 30px 2px 30px; color:#6666b1;font-family:Sanskrit2003;}
+p.sutra {text-align:left; font-size:1.4em; line-height:1.5em; margin:2px 30px 2px 30px; color:#ff4500;font-family:Sanskrit2003;}
+p.arth {text-align:justify; font-size:1.4em; line-height:1.5em; margin:2px 30px 2px 30px; color:#800000;font-family:Sanskrit2003;}
+p.vivaran {text-align:justify; font-size:1.4em; line-height:1.5em; margin:2px 30px 2px 30px; color:#993300;font-family:Sanskrit2003;}
+p.note {text-align:justify; font-size:1.2em; margin:2px 30px 2px 30px; color:#6d8484;}
+a {text-decoration:none}
+
+.pre { float: left; padding: 10px; text-align: left; font-size:1.2em;font-weight:bold; width: 44%; }
+.nex { float: right; padding: 10px; text-align: right; font-size:1.2em;font-weight:bold; width: 44%; }
+
+#wrapper {  margin: 0 auto;  width: 100%; }	  
+#leftcolumn {  float: left; height: 100%; width: 20%; margin-left: 15px; position: relative; }
+#rightcolumn {  float: right; height: 100%; width: 75%; display: inline; position: relative; }
+table {width:80%; text-align:center; border-style:none; margin:0 auto; background:#ffffcc; */}

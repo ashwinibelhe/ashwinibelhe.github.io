@@ -1,0 +1,19 @@
+﻿
+@font-face {
+font-family: 'Sanskrit2003';
+src: url('../fonts/Sanskrit2003.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;} 
+
+h1 {text-align:center;color:red;margin-top:30px;font-family:Sanskrit2003;}
+h3 {text-align:center; font-size:1.4em; color:blue;font-family:Sanskrit2003;}
+h4 {text-align:center;vertical-align:text-top; font-size:1.3em; color:red;font-family:Sanskrit2003;}
+
+p {text-align:justify; font-size:1.4em; line-height:1.5em; margin:2px 30px 2px 30px; color:#105955;font-family:Sanskrit2003;}
+p.samba {text-align:justify; font-size:1.4em; line-height:1.5em; margin:2px 30px 2px 30px; color:#6666b1;font-family:Sanskrit2003;}
+p.sutra {text-align:left; font-size:1.4em; line-height:1.5em; margin:2px 30px 2px 30px; color:red;font-family:Sanskrit2003;}
+p.arth {text-align:justify; font-size:1.4em; line-height:1.5em; margin:2px 30px 2px 30px; color:#105955;font-family:Sanskrit2003;}
+p.vyakhya {text-align:justify; font-size:1.4em; line-height:1.5em; margin:2px 30px 2px 30px; color:#006600;font-family:Sanskrit2003;}
+p.note {text-align:justify; font-size:1em; margin:2px 30px 2px 30px; color:#6d8484;}
+a {text-decoration:none}
+table {width:80%; text-align:center; border-style:none; margin:0 auto; background:#f1e7ce */}

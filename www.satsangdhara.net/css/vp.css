@@ -1,0 +1,40 @@
+
+
+@font-face {
+font-family: 'Sanskrit2003';
+src: url('../fonts/Sanskrit2003.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;} 
+
+p.hdr1 {text-align:center;  font-size:3em; color:#cc1100; font-family:Sanskrit2003;} 
+p.hdr2 {text-align:center;  font-size:2.25em; color:#800000; font-family:Sanskrit2003;} 
+p.hdr3 {text-align:center;  font-size:1.5em; line-height:1.5em; color:#cc1100; font-family:Sanskrit2003;} 
+p.hdr4 {text-align:center;  font-size:1.2em; line-height:1.5em; color:#ff4500; font-family:Sanskrit2003;} 
+
+.shl {float:left; width:40%; text-align:left; color:#800000; font-family:Sanskrit2003;;font-size:1.4em;line-height:1.5em; margin-left:15px; letter-spacing:normal;}
+
+.arth { float:left; width:56%; text-align:justify; color:#ff6e33; font-family:Sanskrit2003;font-size:1.4em;line-height:1.5em; margin-left:10px; letter-spacing:normal;} 
+
+.txt {text-align:justify; color:##ff6e33; font-family:Sanskrit2003;font-size:1.4em;line-height:1.5em; margin:2px 30px 2px 30px; letter-spacing:normal;} 
+
+.ovi { text-align:center;  font-size:1.4em; line-height:1.5em; margin-left:30px; color:green; font-family:Sanskrit2003; } 
+
+.note { text-align:center;  font-size:1.2em; color:#ff6633; line-height:1.5em; font-family:Sanskrit2003; }
+
+.sndrbh { text-align:left; margin-left:150px; font-size:1.3em; line-height:1.5em; color:#ff4500; font-family:Sanskrit2003; }
+
+.sn { text-align:left; margin-left:5px; font-size:1.2em; line-height:1.25em; color:blue; font-family:Sanskrit2003; }  
+
+<body link="#C0C0C0" vlink="#808080" alink="#FF0000"> 
+a {text-decoration:underline}
+
+.pre { float: left; padding: 10px; text-align: left; font-size:1em; font-weight:bold; width: 44%; }
+.nex { float: right; padding: 10px; text-align: right; font-size:1em; font-weight:bold; width: 44%; } 
+/*
+#wrapper {  margin: 0 auto;  width: 100%; } 
+
+#leftcolumn {  float: left; height: 100%; width: 23%; margin-left: 15px; position: relative; }
+
+#rightcolumn {  float: right; height: 100%; width: 75%; display: inline; position: relative; }  
+
+table {width:80%; text-align:center; border-style:none; margin:0 auto; background:#ffeeff; } */

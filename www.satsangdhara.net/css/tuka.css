@@ -1,0 +1,32 @@
+﻿
+@font-face {
+font-family: 'Sanskrit2003';
+src: url('../fonts/Sanskrit2003-1.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;} 
+
+.hdr0 {color:blue;font-family:Sanskrit2003;font-size:1.5em;font-weight:bold;
+          line-height:1.75em;letter-spacing:normal;text-align:center;}
+.hdr1 {color:red;font-family:Sanskrit2003;font-size:1.5em;font-weight:bold;
+          line-height:1.75em;letter-spacing:normal;text-align:center;}
+.hdr2 {color:#ff4500;font-family:Sanskrit2003;font-size:1.3em;font-weight:bold;
+          line-height:1.4em;letter-spacing:normal;text-align:center;}
+.hdr3 {color:blue;font-family:Sanskrit2003;font-size:1.3em;line-height:1.4em;letter-spacing:normal;text-align:center;}
+
+.pre { float: left; padding: 10px; text-align: left; font-size:1.2em;font-weight:bold; width: 44%; }
+.nex { float: right; padding: 10px; text-align: right; font-size:1.2em;font-weight:bold; width: 44%; }
+
+.abh {float:left; width:49%; text-align:left; font-family:Sanskrit2003;font-size:1.4em;line-height:1.5em;letter-spacing:normal; color:#993300; margin-left:15px;}
+
+.arth  { float:left; width:46%; text-align:justify; color:#7d1818; font-family:Sanskrit2003; font-size:1.4em;line-height:1.5em; margin-right:10px; letter-spacing:normal;} 
+
+.txt {text-align:justify;text-indent:20px;margin:15px;font-size:1.4em; line-height:1.5em; color:#006600;}
+
+.end { font-family:Sanskrit2003;font-size:1.3em;line-height:1.5em; color:#003399; text-align:right; margin-right:30px; letter-spacing:normal;}  
+
+h1 {text-align:center;vertical-align:text-top;color:red;margin-top:30px;}
+h3 {text-align:center;vertical-align:text-top;color:blue;}
+h4 {text-align:center;vertical-align:text-top;color:red;}
+p {text-align:justify;margin-left: 15px;margin-right:15px;font-family:Sanskrit2003;font-size:1.4em;line-height:1.5em;color:#006400;}
+a {text-decoration:underline}
+.abhLinks a {	color:#006400;	text-decoration:none; }

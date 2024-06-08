@@ -1,0 +1,24 @@
+
+@font-face {
+font-family: 'Sanskrit2003';
+src: url('../fonts/Sanskrit2003.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;} 
+
+.header1 {text-align:center; color:red; font-family:Sanskrit2003; font-size:1.75em;font-weight:bold; line-height:1.85em; letter-spacing:normal;}
+.header2 {color:#ff4500;font-family:Sanskrit2003;font-size:1.6em; font-weight:bold;
+          line-height:1.65em; letter-spacing:normal;}
+
+.ruk, .pad, {font-family:Sanskrit2003;font-size:1.4em;line-height:1.5em;letter-spacing:normal;text-align:center;vertical-align:text-top;}
+
+.arth {font-family:Sanskrit2003; text-align:justify; margin-left: 15px;margin-right:20px; font-size:1.4em;line-height:1.5em; color:#006400 } 
+
+.pre { float: left; padding: 10px; text-align: left; font-size:1.2em;font-weight:bold; width: 25%; }
+
+.nex { float: right; padding: 10px; text-align: right; font-size:1.2em;font-weight:bold; width: 25%; } 
+
+#wrapper {  margin: 0 auto;  width: 100%; }	  
+#leftcolumn {  float: left; height: 100%; width: 15%; margin-left: 30px; position: relative; }
+#rightcolumn {  float: right; height: 100%; width: 75%; display: inline; position: relative; }
+
+table {width:80%; text-align:center; border-style:none; margin:0 auto; background:#ffffbb; */}
